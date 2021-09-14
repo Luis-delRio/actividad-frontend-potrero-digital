@@ -1,0 +1,29 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    width: 900px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Helvetica, sans-serif;
+    font-size: 37px;
+    color: #000;
+    line-height: 46px;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height: 38px;
+}
+
+img {
+    height: 100%;
+    width: 50%;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    line-height: 27px;
+}
